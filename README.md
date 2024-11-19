@@ -1,6 +1,6 @@
 # 🧭 **OSINT Navigator Tool** 🌐
 
-![OSINT Navigator](https://media.discordapp.net/attachments/1304916161355317268/1307805579087052900/image.png?ex=673ba45b&is=673a52db&hm=c2d12cd35e98aac3f8825d66f5f260338aa21f3a3dc7a854bd97da4be22f5c0f&=&format=webp&quality=lossless&width=913&height=468)
+<img align="center" src="Img/image.png" width="100%"> 
 
 **OSINT Navigator Tool** est un outil simple qui permet de rechercher des informations publiques sur Internet en utilisant des sources ouvertes (OSINT).
 
