@@ -36,3 +36,4 @@ Voici les catégories disponibles pour rechercher des informations :
 - **Développeur** : blax_dev
 - **Version** : 1.2
 - **Discord** : [Rejoindre le serveur Discord](https://discord.gg/backgen)
+- **SiteWeb** : [Backgen.com](https://backgen.onrender.com/)
